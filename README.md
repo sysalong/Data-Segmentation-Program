@@ -22,6 +22,8 @@ lsdkjf3843247----dksjfhsdkjfh
 sdjfls23423dkj@lkfj.com----sdjfls2423423423
 lsdkjf3843247----dksjfhsdkjfh3843247
 
+打包好的下载地址：https://github.com/sysalong/Data-Segmentation-Program/releases/download/v4.20/txtRelease.rar
+
 
 如果还有什么BUG，可以去我博客或者这里，及时反馈吧。
 
