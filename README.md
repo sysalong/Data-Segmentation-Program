@@ -29,7 +29,9 @@ asdf@qq.com ---- abcdef123
 保存至程序同目录下1log文件夹内。
 
 
+  
 
+  
 
 【功能二】（取账号数字、英文与密码混合）：
 
@@ -51,7 +53,9 @@ asdf@asdf.com ---- asdf12312
 
 asdf@qq.com ---- asdfabcdef123
 
+ 
 
+ 
 
 
 【功能三】（取账号数字、英文与密码混合）：
@@ -95,9 +99,11 @@ asdfasdf123 ---- asdfasdf123bbb456
 asdf@qq.com ---- asdf123cc123
 
 asdf@qq.com ---- asdf4444555             ←←←注意这个与上面的区别是3、4小项的特点。
+ 
 
+  
 
-
+ 
 
 
 
